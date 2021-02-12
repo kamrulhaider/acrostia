@@ -51,6 +51,7 @@ header {
 /* Header End */
 /* Slider Start */
 .slider {
+  position:relative;
 }
 .sliderin {
   margin: 0 !important;
